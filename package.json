@@ -1,11 +1,8 @@
 {
-  "name": "network-speed",
+  "name": "@quantfive/network-speed",
   "version": "2.0.1",
   "description": "Node/Browser module to check internet connectivity speed",
   "main": "app.js",
-  "engines": {
-    "node": "9.2.0"
-  },
   "scripts": {
     "build": "webpack",
     "start": "node test_usage.js",
